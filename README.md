@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Siphosethu Shumani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphosethu1998&label=Profile%20views&color=0e75b6&style=flat" alt="siphosethu1998" /> </p>
 
-- 🔭 I’m currently working on **Django Movie website**
+- 🔭 I’m currently working on **Django Movie website, and a django & react website**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Any software development projects**
 
