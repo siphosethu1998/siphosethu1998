@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siphosethu Shumani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphosethu1998&label=Profile%20views&color=0e75b6&style=flat" alt="siphosethu1998" /> </p>
 
-- 🔭 I’m currently working on **Personal website**
+- 🔭 I’m currently working on **My Personal website**
 
 - 🌱 I’m currently learning **Docker**
 
