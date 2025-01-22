@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Personal website**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👯 I’m looking to collaborate on **Any software development projects**
 
