@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Next.JS**
 
-- 👯 I’m looking to collaborate on **Any software development projects**
+- 👯 I’m looking to collaborate on **Full stack, Frontend or Backend software development projects**
 
 - 📫 How to reach me **siphosethu1998@gmail.com**
 
